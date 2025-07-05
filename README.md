@@ -42,6 +42,13 @@ An initial image (usually a copy of the content image) is updated using gradient
 Output Generation:
 After a fixed number of iterations (e.g., 500–1000), the final image is deprocessed (converted back from VGG19’s format to RGB) and saved as output_stylized_image.jpg.
 
+INPUT:
+
+
+
+
+
+
 OUTPUT:
 <img width="373" height="246" alt="Image" src="https://github.com/user-attachments/assets/03c16d12-a520-45ef-a0bc-9143747a4921" />
 
