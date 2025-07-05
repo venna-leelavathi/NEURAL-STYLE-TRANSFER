@@ -44,9 +44,9 @@ After a fixed number of iterations (e.g., 500–1000), the final image is deproc
 
 INPUT:
 
+<img width="253" height="171" alt="Image" src="https://github.com/user-attachments/assets/72cab622-9131-4861-97b9-31a03b2c0c6a" />
 
-
-
+<img width="254" height="167" alt="Image" src="https://github.com/user-attachments/assets/3d4510ab-b2e8-4589-9ca7-812285fac669" />
 
 
 OUTPUT:
